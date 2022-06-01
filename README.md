@@ -803,6 +803,7 @@
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference)                              | Mercado Pago API reference - all the information you need to develop your integrations              | `apiKey` | Yes   | Unknown |
 | [Mono](https://mono.co/)                                                                           | Connect with users’ bank accounts and access transaction data in Africa                             | `apiKey` | Yes   | Unknown |
 | [Moov](https://docs.moov.io/api/)                                                                  | The Moov API makes it simple for platforms to send, receive, and store money                        | `apiKey` | Yes   | Unknown |
+| [Mutual Funds India](https://mf.captnemo.in) | No | Yes | Yes |
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) | Connect to bank accounts using official bank APIs and get raw transaction data                      | `apiKey` | Yes   | Unknown |
 | [OpenFIGI](https://www.openfigi.com/api)                                                           | Equity, index, futures, options symbology from Bloomberg LP                                         | `apiKey` | Yes   | Yes     |
 | [Plaid](https://plaid.com/)                                                                        | Connect with user's bank accounts and access transaction data                                       | `apiKey` | Yes   | Unknown |
